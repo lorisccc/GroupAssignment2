@@ -1,2 +1,2 @@
-# software_engineering
-Folder of the assignment of the class Software Engineering 2021-2022
+# software engineering - Group assignment 2
+Folder of the group assignment 2 of the class Software Engineering 2021-2022.
