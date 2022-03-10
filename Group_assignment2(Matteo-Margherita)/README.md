@@ -1,2 +1,2 @@
 # Software Engineering
-  This is the second group assignment of Matteo Jiahao Chen and Margherita Bonfiglio
+  This is the second group assignment of Loris Coccia and Margherita Bonfiglio
